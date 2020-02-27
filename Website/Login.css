@@ -1,0 +1,42 @@
+body{
+    background-color:#333333;
+ }
+ 
+ h1{
+     font-family: Arial, Helvitica, Sans- serif;
+     font-size: 18px;
+     text-align: center;
+     color: #f4f4f4;
+    margin-top: 20px;
+ 
+ }
+   
+.form-group {
+    text-align: center;
+}
+ .form-group input {
+     width:75%;
+     padding: 7px;
+     background-color:transparent;
+     margin:20px 0;
+ }
+ 
+ button{
+    width: 76.5%;
+    margin-top: 10px;
+    padding: 7px;
+    background-color: aqua; 
+    border: none;
+ }
+ 
+ p{
+    color: #000000;
+ }
+ #Sign{
+    color: aqua;
+    font-family: Arial;
+ }
+ #Sign a {
+   text-decoration: none;
+   color: #f4f4f4;
+}
